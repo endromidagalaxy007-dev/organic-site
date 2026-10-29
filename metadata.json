@@ -1,0 +1,6 @@
+{
+  "name": "Shiter Bazar — Organic & Winter Marketplace",
+  "description": "Complete responsive e-commerce marketplace featuring organic foods, honey, ghee, dates, oils, category browsing, product specifications, and instant checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+name = "shiter-bazar-ecommerce"
+compatibility_date = "2025-02-01"
+pages_build_output_dir = "dist"
+
+# Environment variables (TURSO_DATABASE_URL, TURSO_AUTH_TOKEN, CLOUDINARY_CLOUD_NAME, CLOUDINARY_API_KEY, CLOUDINARY_API_SECRET)
+# are securely configured in the Cloudflare Pages Dashboard -> Settings -> Environment Variables.
